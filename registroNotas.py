@@ -45,7 +45,7 @@ def registrar_alumnos():
             print(f"La suma de notas de {cantidad_alumnos} alumnos es: {suma_notas}")
 
         elif comando == 'X':
-            print("¡Hasta luego! Saliendo del programa.")
+            print("Saliendo del programa.")
             break
 
         else:
